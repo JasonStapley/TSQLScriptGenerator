@@ -1,0 +1,17 @@
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe.config
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.FormScriptGenerator.resources
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.Properties.Resources.resources
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csproj.GenerateResource.Cache
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.pdb
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.exe
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.pdb
+E:\Repositories\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csprojResolveAssemblyReference.cache
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe.config
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.exe
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.pdb
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.pdb
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.FormScriptGenerator.resources
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.Properties.Resources.resources
+E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csproj.GenerateResource.Cache
