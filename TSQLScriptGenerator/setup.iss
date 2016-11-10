@@ -21,7 +21,7 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DefaultDirName={pf}\{#MyAppName}
 DisableProgramGroupPage=yes
-OutputDir=E:\GitHub\TSQLScriptGenerator\output
+OutputDir=C:\Github\TSQLScriptGenerator-master\TSQLScriptGenerator\output
 OutputBaseFilename=setup
 Compression=lzma
 SolidCompression=yes
@@ -34,9 +34,9 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked; OnlyBelowVersion: 0,6.1
 
 [Files]
-Source: "E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\bin\Release\TSQLScriptGenerator.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\bin\Release\TSQLScriptGenerator.exe.config"; DestDir: "{app}"; Flags: ignoreversion
-Source: "E:\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\bin\Release\TSQLScriptGenerator.vshost.exe.manifest"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Github\TSQLScriptGenerator-master\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Github\TSQLScriptGenerator-master\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe.config"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Github\TSQLScriptGenerator-master\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.vshost.exe.manifest"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
