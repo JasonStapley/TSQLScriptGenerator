@@ -1,0 +1,29 @@
+C:\Github\TSQLScriptGenerator-master\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe.config
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe.config
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.pdb
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csprojResolveAssemblyReference.cache
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.FormScriptGenerator.resources
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.Properties.Resources.resources
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csproj.GenerateResource.Cache
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.exe
+C:\Github\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.pdb
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.exe
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.pdb
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe.config
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.pdb
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.FormScriptGenerator.resources
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.Properties.Resources.resources
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csproj.GenerateResource.cache
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jason.stapley\source\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csprojAssemblyReference.cache
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe.config
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.exe
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\bin\Debug\TSQLScriptGenerator.pdb
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.FormScriptGenerator.resources
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.Properties.Resources.resources
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csproj.GenerateResource.cache
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.exe
+C:\Users\jason.stapley\OneDrive - Dominos Pizza UK and Ireland\Documents\GitHub\TSQLScriptGenerator\TSQLScriptGenerator\TSQLScriptGenerator\obj\Debug\TSQLScriptGenerator.pdb
