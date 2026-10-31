@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <Deterministic>true</Deterministic>
+    <Company>Jason Stapley</Company>
+    <Product>TSQLScriptGenerator</Product>
+    <Authors>Jason Stapley</Authors>
+    <Copyright>Copyright © Jason Stapley</Copyright>
+    <Version>2.0.0</Version>
+    <Description>Generate T-SQL INSERT statements or stored procedure calls from a SELECT query.</Description>
+  </PropertyGroup>
+</Project>

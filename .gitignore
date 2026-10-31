@@ -1,0 +1,32 @@
+## Build
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+TestResults/
+artifacts/
+
+## Visual Studio / Rider
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.rsuser
+.idea/
+
+## .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+project.lock.json
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Local publish output
+publish/
+setup/output/
