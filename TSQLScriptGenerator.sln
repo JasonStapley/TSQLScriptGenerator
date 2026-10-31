@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7CB9562A-F15D-4F20-A61F-829496553A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSQLScriptGenerator.Core", "src\TSQLScriptGenerator.Core\TSQLScriptGenerator.Core.csproj", "{0F945496-B1F6-4698-A3F5-C29C1010E293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSQLScriptGenerator.Cli", "src\TSQLScriptGenerator.Cli\TSQLScriptGenerator.Cli.csproj", "{FA1B8BDE-D5FB-48B1-B481-2032AD1C3D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSQLScriptGenerator.WinForms", "src\TSQLScriptGenerator.WinForms\TSQLScriptGenerator.WinForms.csproj", "{BB2E373E-4251-4E5E-A350-A3310FD876A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{25360E63-B326-4548-A711-9D8D125BD9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSQLScriptGenerator.Tests", "tests\TSQLScriptGenerator.Tests\TSQLScriptGenerator.Tests.csproj", "{DCF14DBB-B4D5-45E8-ADDB-0073B25122BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F945496-B1F6-4698-A3F5-C29C1010E293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F945496-B1F6-4698-A3F5-C29C1010E293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F945496-B1F6-4698-A3F5-C29C1010E293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F945496-B1F6-4698-A3F5-C29C1010E293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1B8BDE-D5FB-48B1-B481-2032AD1C3D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1B8BDE-D5FB-48B1-B481-2032AD1C3D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1B8BDE-D5FB-48B1-B481-2032AD1C3D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1B8BDE-D5FB-48B1-B481-2032AD1C3D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2E373E-4251-4E5E-A350-A3310FD876A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2E373E-4251-4E5E-A350-A3310FD876A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2E373E-4251-4E5E-A350-A3310FD876A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2E373E-4251-4E5E-A350-A3310FD876A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF14DBB-B4D5-45E8-ADDB-0073B25122BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF14DBB-B4D5-45E8-ADDB-0073B25122BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF14DBB-B4D5-45E8-ADDB-0073B25122BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF14DBB-B4D5-45E8-ADDB-0073B25122BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F945496-B1F6-4698-A3F5-C29C1010E293} = {7CB9562A-F15D-4F20-A61F-829496553A63}
+		{FA1B8BDE-D5FB-48B1-B481-2032AD1C3D1D} = {7CB9562A-F15D-4F20-A61F-829496553A63}
+		{BB2E373E-4251-4E5E-A350-A3310FD876A7} = {7CB9562A-F15D-4F20-A61F-829496553A63}
+		{DCF14DBB-B4D5-45E8-ADDB-0073B25122BF} = {25360E63-B326-4548-A711-9D8D125BD9CD}
+	EndGlobalSection
+EndGlobal
